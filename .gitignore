@@ -26,3 +26,14 @@
 *.exe
 *.out
 *.app
+*.pdb
+*.exp
+Debug
+Release
+bin
+obj
+*.vs
+*.user
+*.suo
+Output
+Output2
