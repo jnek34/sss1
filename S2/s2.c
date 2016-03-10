@@ -1,5 +1,4 @@
-NEW SRTR 5 HOME
-
+NEW SRTR 4 HOME
 nnew str 3 homeuser
 ew str 2 homeuser
 new str s2
